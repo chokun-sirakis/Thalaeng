@@ -1,0 +1,5 @@
+setup.py
+thalaeng.egg-info/PKG-INFO
+thalaeng.egg-info/SOURCES.txt
+thalaeng.egg-info/dependency_links.txt
+thalaeng.egg-info/top_level.txt

@@ -11,4 +11,4 @@ log_topi : topic or action of log
 
 __version__ = "1.0.1"
 
-from .logging import Logging
+from main import Logging

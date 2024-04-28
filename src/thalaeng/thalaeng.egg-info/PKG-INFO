@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: thalaeng
+Version: 0.1.0
+Summary: python package for showing a log on python console
+Home-page: https://github.com/chokun-sirakis/Thalaeng
+Author: Sirakis Ng
+Author-email: sirakis.ng@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+
+python package for showing a log on python console
